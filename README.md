@@ -1,1 +1,1 @@
-This is a project which will showcase receipes
+This is a project which will showcase recipes
